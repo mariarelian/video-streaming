@@ -1,7 +1,7 @@
 # Starting the app
 
 - `npm install`
-- `npm start dev`
+- `npm run dev`
 
 # React + TypeScript + Vite
 
